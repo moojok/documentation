@@ -1,3 +1,0 @@
-# Welcome to Funtend
-
-Funtend is transforming the streetwear industry by integrating AI-generated fashion design, NFT-based digital ownership, and decentralized social commerce. Built on Polygon PoS, our protocol enables users to design unique streetwear using machine-learning-driven generative AI, mint these designs as NFTs with on-chain metadata, and redeem them for NFC-embedded apparel that links back to the blockchain for provenance and authenticity.
